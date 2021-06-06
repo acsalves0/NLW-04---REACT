@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="Capa.png" />
+    <img alt="Move.it" title="Move.it" src="/Capa.png" />
 </h1>
 
 ## 🧪 Tecnologias
