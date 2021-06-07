@@ -35,8 +35,6 @@ yarn-error.log*
 
 .vercel
 
-<<<<<<< HEAD
 package-lock.json
 yarn.lock.json
-=======
->>>>>>> 554ebc8169088d7844ba7241c17e5f62452c916b
+node_modules
